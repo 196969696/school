@@ -1,0 +1,11 @@
+@import url('/fonts/Queensides.ttf');
+.title {
+  text-align: center;
+  size: 70px;
+  font-family: Queensides;
+  color: #FFFFFF;  
+}
+.body {
+background-image: url('https://dbjk47w5ep2rm.cloudfront.net/blog/wp-content/uploads/2015/03/uhoh.jpg');
+  filter: brightness(50%);
+}
