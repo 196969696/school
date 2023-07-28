@@ -5,30 +5,39 @@ body {
   text-align: center;
   size: 70px;
   font-family: Montserrat;
-  color: #FFFFFF;  
+  color: #000000;  
 }
+.button { background-color: rgba(0,0,0,0); border-color: rgba(0,0,0,0);border-radius: 20px;width: 391px; position: relative; left: 20px; top: 8px;}
+.button:hover {transition: 0.5s; background-color: white;}
+.name {position: relative; margin: 0;  font-family: Montserrat; font-size: 25px;}
 .navbar {
-  position: sticky;
-  z-index:3;
+  position: relative;
+  z-index:2;
   width: 100%;
   height: 50px;
-  background-color: #5A5A5A;
-  border-left-bottom-radius: 20px;
-  border-right-bottom-radius: 20px;
+  background-color: #cdcdcd;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
 }
-.content {
-    z-index: 2;
+.text {
+  text-align: center;
+  size: 5932px;
+  font-family: Montserrat;
+  color: #000000;  
+}
+.content {  
   position: fixed;
+  z-index: 1;
   width: 100%;
   height: 100%;
   background-color: rgba(0,0,0,0);
 }
 #bg {
-    left: 0;
-  right: 0;
-background-image: url('/school/img/bg.jpg');
+background-image: url('https://196969696.github.io/school/img/bg.jpg');
  background-repeat: no-repeat;
   background-size: 100% 100%;
   position: fixed;
-  z-index: 1;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
 }
