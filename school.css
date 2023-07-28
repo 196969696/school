@@ -10,12 +10,12 @@ body {
 }
 .button { background-color: rgba(0,0,0,0); border-color: rgba(0,0,0,0);border-radius: 20px;width: 400px; position: relative; left: 20px; top: 8px;}
 .button:hover {transition: 0.5s; background-color: white;}
-.button2 {margin-left: 20px; background-color: rgba(0,0,0,0); border-color: rgba(0,0,0,0);border-radius: 20px;width: fit-content; position: relative; left: 20px; top: -23px;}
+.button2 {margin-left: 20px; background-color: rgba(0,0,0,0); border-color: rgba(0,0,0,0);border-radius: 20px;width: fit-content; position: relative; left: 20px; top: -18px;}
 .button2:hover {transition: 0.5s; background-color: white;}
-.button3 { background-color: rgba(0,0,0,0); border-color: rgba(0,0,0,0);border-radius: 20px;width: fit-content; position: relative; left: 20px; top: 0px;}
+.button3 { background-licolor: rgba(0,0,0,0); border-color: rgba(0,0,0,0);border-radius: 20px;width: fit-content; position: relative; left: 20px; top: 3px;}
 .button3:hover {transition: 0.5s; background-color: white;}
 
-.logo{height: 68px; }
+.logo{height: 60px;}
 .name {position: relative; margin: 0;  font-family: Montserrat; font-size: 25px;}
 .name2 {position: relative; margin: 0;  font-family: Montserrat; font-size: 25px;}
 .navbar {
