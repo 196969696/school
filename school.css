@@ -12,7 +12,7 @@ body {
 .button:hover {transition: 0.5s; background-color: white;}
 .button2 {margin-left: 20px; background-color: rgba(0,0,0,0); border-color: rgba(0,0,0,0);border-radius: 20px;width: fit-content; position: relative; left: 20px; top: -18px;}
 .button2:hover {transition: 0.5s; background-color: white;}
-.button3 { background-licolor: rgba(0,0,0,0); border-color: rgba(0,0,0,0);border-radius: 20px;width: fit-content; position: relative; left: 20px; top: 3px;}
+.button3 { background-color: rgba(0,0,0,0); border-color: rgba(0,0,0,0);border-radius: 20px;width: fit-content; position: relative; left: 20px; top: 3px;}
 .button3:hover {transition: 0.5s; background-color: white;}
 
 .logo{height: 60px;}
